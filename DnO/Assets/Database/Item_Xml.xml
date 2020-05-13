@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ItemDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <itemList>
+    <Item_items>
+      <itemName>a</itemName>
+      <itemNumber>1001</itemNumber>
+      <itemPower>10</itemPower>
+      <itemHP>20</itemHP>
+      <itemSpeed>2.5</itemSpeed>
+      <itemTime>3.5</itemTime>
+    </Item_items>
+    <Item_items>
+      <itemName>b</itemName>
+      <itemNumber>1002</itemNumber>
+      <itemPower>11</itemPower>
+      <itemHP>21</itemHP>
+      <itemSpeed>2.6</itemSpeed>
+      <itemTime>3.6</itemTime>
+    </Item_items>
+  </itemList>
+</ItemDatabase>

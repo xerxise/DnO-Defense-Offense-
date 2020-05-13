@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fdf649a00d67a9141b0672e62bc79382
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - town: {instanceID: 0}
+  - bat: {fileID: 701431943819842294, guid: d9ccc1ebd2f624d0e9e3a6eb4a9ef13d, type: 3}
+  - knife: {fileID: 2223743957660936981, guid: e8e2d5d947b584f929fa1a6c55981200, type: 3}
+  - pistol: {fileID: 887582287578065612, guid: ab32e5791a24e467ea6e429828281af2, type: 3}
+  - shotgun: {fileID: 7937926466719713142, guid: 95f252714b42d43d880cd98824bdfd55,
+      type: 3}
+  - rifle: {fileID: 6861643526433700754, guid: b22fe264089884bd3a81f3177baa1e23, type: 3}
+  - potion: {instanceID: 0}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
